@@ -1,5 +1,5 @@
 FROM gliderlabs/registrator:latest
-LABEL maintainer lracon@jgsullivan.com
+LABEL maintainer Lukasz Racon
 
 RUN apk-install curl
 
